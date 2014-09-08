@@ -1,0 +1,8 @@
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-2-drawing\_1DV402.S1.L02C\bin\Debug\_1DV402.S1.L02C.exe.config
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-2-drawing\_1DV402.S1.L02C\bin\Debug\_1DV402.S1.L02C.exe
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-2-drawing\_1DV402.S1.L02C\bin\Debug\_1DV402.S1.L02C.pdb
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-2-drawing\_1DV402.S1.L02C\obj\Debug\_1DV402.S1.L02C.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-2-drawing\_1DV402.S1.L02C\obj\Debug\_1DV402.S1.L02C.Properties.Resources.resources
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-2-drawing\_1DV402.S1.L02C\obj\Debug\_1DV402.S1.L02C.csproj.GenerateResource.Cache
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-2-drawing\_1DV402.S1.L02C\obj\Debug\_1DV402.S1.L02C.exe
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-2-drawing\_1DV402.S1.L02C\obj\Debug\_1DV402.S1.L02C.pdb
