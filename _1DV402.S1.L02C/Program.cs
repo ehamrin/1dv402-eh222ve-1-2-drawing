@@ -44,7 +44,6 @@ namespace _1DV402.S1.L02C
         {
 
             byte maxCount = 0;
-            bool inputValid = false;
 
             do
             {
@@ -62,23 +61,23 @@ namespace _1DV402.S1.L02C
                         //Check if input equals odd number 
                         if (maxCount % 2 != 0)
                         {
-                            inputValid = true;
+                            break;
                         }
                         else
                         {
-                            throw new InvalidOperationException();
+                            throw new ArgumentOutOfRangeException();
                         }
                     }
                     else
                     {
-                        throw new InvalidOperationException();
+                        throw new ArgumentOutOfRangeException();
                     }
                 }
                 catch
                 {
                     ViewMessage(Resources.Input_Error, true, userInput);
                 }
-            } while (inputValid == false);
+            } while (true);
 
             return maxCount;
         }
